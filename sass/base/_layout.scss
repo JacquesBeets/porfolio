@@ -1,8 +1,10 @@
 .section {
   position: relative;
-  background-color: $black;
+  // background-color: $black;
+
   height: 100vh;
   overflow: hidden;
+  z-index: 0;
 }
 
 h1 {
